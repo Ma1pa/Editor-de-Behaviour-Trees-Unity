@@ -27,7 +27,7 @@ public class BehaviourEditor : EditorWindow
     private List<ulong> conIds;
 
     //Valores Inspector
-    private string ubicacionBase = "./Assets/BehaviourTrees/jsons/";
+    private string ubicacionBase = "./Assets/BT_Editor/Functional/jsons//";
     private string nombreArchivo = "";
     private NodeElement Nodo;
     private string funcion = "";
